@@ -1,0 +1,10 @@
+com\identicum\keycloak\external\User.class
+com\identicum\keycloak\external\UserHttpClient.class
+com\identicum\keycloak\helpers\RestAPIHelper.class
+com\identicum\keycloak\helpers\Constants.class
+com\identicum\keycloak\user\CustomUserStorageProvider.class
+com\identicum\keycloak\external\UserClient.class
+com\identicum\keycloak\user\UserAdapter.class
+com\identicum\keycloak\user\CustomUserStorageProviderFactory.class
+com\identicum\keycloak\auth\CustomAuthenticator.class
+com\identicum\keycloak\auth\CustomAuthenticatorFactory.class
